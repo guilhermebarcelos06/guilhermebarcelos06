@@ -32,8 +32,8 @@ Me chamo Guilherme Silvestre Barcelos, tenho 18 anos e sou natural de Brasília-
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" 
