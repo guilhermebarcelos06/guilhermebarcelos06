@@ -30,6 +30,14 @@ Me chamo Guilherme Silvestre Barcelos, tenho 18 anos e sou natural de Brasília-
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" 
+/>
 
 <img 
     align="left" 
@@ -60,23 +68,6 @@ Me chamo Guilherme Silvestre Barcelos, tenho 18 anos e sou natural de Brasília-
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermebarcelos06&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarcelos06&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
 
