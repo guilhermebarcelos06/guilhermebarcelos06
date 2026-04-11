@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Guilherme S. Barcelos
 
 
-Me chamo Guilherme Silvestre Barcelos, tenho 18 anos e sou natural de Brasília-DF. Atualmente, estou cursando Engenharia de Software na UCB - Universidade Católica de Brasília. 
+Me chamo Guilherme Silvestre Barcelos, tenho 19 anos e sou natural de Brasília-DF. Atualmente, estou cursando Engenharia de Software na UCB - Universidade Católica de Brasília. 
 
 ### 🤖 Linguagens e Tecnologias
 
